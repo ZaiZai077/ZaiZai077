@@ -1,11 +1,11 @@
-# ⚡ Su Zai Zai (Litun)
+# ⚡ I'm Su Su (Litun)
 
 > **Backend Developer | Python & FastAPI Enthusiast | Tech Explorer**
 
 ---
 
 ### 🚀 About Me
-I’m **Su Zai Zai**, a developer who focuses on writing clean logic and building scalable backends. I love solving complex problems and optimizing workflows.
+I’m **Su Su**, a developer who focuses on writing clean logic and building scalable backends. I love solving complex problems and optimizing workflows.
 
 - 🔭 **Currently focusing on:** Advanced FastAPI & PostgreSQL.
 - 🌱 **Learning:** Data Engineering and System Design.
