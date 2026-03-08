@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**ZaiZai077/ZaiZai077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Su Zai Zai
 
-Here are some ideas to get you started:
+> **Backend Developer | Python & FastAPI Enthusiast | Logic Explorer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+I’m **Su Zai Zai**, a passionate developer who loves to build efficient and scalable backend systems. I spend my time exploring deep logic, optimizing code, and figuring out "how things work under the hood."
+
+- 🔭 **Currently focusing on:** Mastering FastAPI and Data Architecture.
+- 🌱 **Learning:** SQL optimization and Cross-platform automation scripts.
+- ⚡ **Fun Fact:** I prefer a clean `start.sh` over a bulky `start.bat`.
+
+### 🛠️ Technical Arsenal
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 My GitHub Journey
+![Su Zai Zai's Stats](https://github-readme-stats.vercel.app/api?username=ZaiZai077&show_icons=true&theme=tokyonight)
+
+---
+*“Writing clean code is a lifestyle, not a job*
