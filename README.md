@@ -1,25 +1,31 @@
+# ⚡ Su Zai Zai (Litun)
 
-# ⚡ Su Zai Zai
-
-> **Backend Developer | Python & FastAPI Enthusiast | Logic Explorer**
+> **Backend Developer | Python & FastAPI Enthusiast | Tech Explorer**
 
 ---
 
 ### 🚀 About Me
-I’m **Su Zai Zai**, a passionate developer who loves to build efficient and scalable backend systems. I spend my time exploring deep logic, optimizing code, and figuring out "how things work under the hood."
+I’m **Su Zai Zai**, a developer who focuses on writing clean logic and building scalable backends. I love solving complex problems and optimizing workflows.
 
-- 🔭 **Currently focusing on:** Mastering FastAPI and Data Architecture.
-- 🌱 **Learning:** SQL optimization and Cross-platform automation scripts.
-- ⚡ **Fun Fact:** I prefer a clean `start.sh` over a bulky `start.bat`.
+- 🔭 **Currently focusing on:** Advanced FastAPI & PostgreSQL.
+- 🌱 **Learning:** Data Engineering and System Design.
+- ⚡ **Fun Fact:** I'd rather spend 2 hours automating a task than 10 minutes doing it manually.
 
 ### 🛠️ Technical Arsenal
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-### 📊 My GitHub Journey
-![Su Zai Zai's Stats](https://github-readme-stats.vercel.app/api?username=ZaiZai077&show_icons=true&theme=tokyonight)
+### 📈 GitHub Analytics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ZaiZai077&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaiZai077&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+### 📫 Let's Connect
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:litunm835@gmail.com)
 
 ---
-*“Writing clean code is a lifestyle, not a job*
+*“Logic will get you from A to B. Imagination will take you everywhere.”*
