@@ -1,4 +1,4 @@
-# ⚡ I'm Su Su (Litun)
+# ⚡ I'm Su Su 
 
 > **Backend Developer | Python & FastAPI Enthusiast | Tech Explorer**
 
